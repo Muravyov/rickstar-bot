@@ -60,13 +60,33 @@ python bot.py
 </details>
 
 <details>
-<summary>Казино</summary>
-<!-- добавьте скриншот -->
+<summary>Покупка звёзд</summary>
+
+![Menu](https://github.com/user-attachments/assets/94f0a3c0-1271-4c1d-af21-58debe423ded)
+
 </details>
 
 <details>
-<summary>Админ-панель</summary>
-<!-- добавьте скриншот -->
+<summary>Казино</summary>
+
+![Menu](https://github.com/user-attachments/assets/3512cbad-be1a-4f74-b06e-7c5b7d1fe670)
+
+</details>
+
+<details>
+<summary>Заработать</summary>
+
+![Menu](https://github.com/user-attachments/assets/11fc31ba-1f73-4d29-8f7e-85c8422565c7)
+
+
+</details>
+
+<details>
+<summary>Задания</summary>
+
+![Menu](https://github.com/user-attachments/assets/313b01dd-a4b3-4b79-b0df-6e558872da1f)
+
+
 </details>
 
 ## ⚠️ Disclaimer
