@@ -1,3 +1,6 @@
+
+<img width="1024" height="1536" alt="CFF65020-A6EB-4D12-B7B1-0FB295509CBD" src="https://github.com/user-attachments/assets/5e443929-edf2-4354-8ec2-9dbdd40e1f57" />
+
 # 🧪 RickStar Bot
 
 [![Try Bot](https://img.shields.io/badge/Telegram-Try%20Bot-blue?style=for-the-badge&logo=telegram)](https://t.me/dickstar_bot)
