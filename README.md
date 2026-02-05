@@ -54,8 +54,9 @@ python bot.py
 
 <details>
 <summary>Главное меню</summary>
-<!-- ![IMG_2521](https://github.com/user-attachments/assets/22c538f4-a7fb-43df-b983-950397cd27c2)
-добавьте скриншот -->
+
+![Menu](https://github.com/user-attachments/assets/22c538f4-a7fb-43df-b983-950397cd27c2)
+
 </details>
 
 <details>
