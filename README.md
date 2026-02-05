@@ -1,5 +1,7 @@
 # 🧪 RickStar Bot
 
+[![Try Bot](https://img.shields.io/badge/Telegram-Try%20Bot-blue?style=for-the-badge&logo=telegram)](https://t.me/dickstar_bot)
+
 Telegram бот для покупки Telegram Stars с интегрированным казино на TON.
 
 ## 🚀 Возможности
